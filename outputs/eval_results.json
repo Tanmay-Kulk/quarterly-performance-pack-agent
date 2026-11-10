@@ -1,0 +1,131 @@
+{
+ "commentary_v1_1": {
+  "checks": {
+   "numbers_supported": false,
+   "price_only_caveat": true,
+   "no_forecast_or_advice": true,
+   "names_period": true,
+   "three_or_four_sentences": false
+  },
+  "unsupported": [
+   0.11
+  ],
+  "passed": false,
+  "n_numbers": 15
+ },
+ "commentary_v1_2": {
+  "checks": {
+   "numbers_supported": false,
+   "price_only_caveat": true,
+   "no_forecast_or_advice": true,
+   "names_period": true,
+   "three_or_four_sentences": false
+  },
+  "unsupported": [
+   0.29,
+   0.11
+  ],
+  "passed": false,
+  "n_numbers": 23
+ },
+ "commentary_v1_3": {
+  "checks": {
+   "numbers_supported": false,
+   "price_only_caveat": true,
+   "no_forecast_or_advice": true,
+   "names_period": true,
+   "three_or_four_sentences": false
+  },
+  "unsupported": [
+   0.11
+  ],
+  "passed": false,
+  "n_numbers": 15
+ },
+ "commentary_v1_4": {
+  "checks": {
+   "numbers_supported": true,
+   "price_only_caveat": true,
+   "no_forecast_or_advice": true,
+   "names_period": true,
+   "three_or_four_sentences": false
+  },
+  "unsupported": [],
+  "passed": false,
+  "n_numbers": 18
+ },
+ "commentary_v1_5": {
+  "checks": {
+   "numbers_supported": false,
+   "price_only_caveat": true,
+   "no_forecast_or_advice": true,
+   "names_period": true,
+   "three_or_four_sentences": false
+  },
+  "unsupported": [
+   0.11
+  ],
+  "passed": false,
+  "n_numbers": 16
+ },
+ "commentary_v2_1": {
+  "checks": {
+   "numbers_supported": true,
+   "price_only_caveat": true,
+   "no_forecast_or_advice": true,
+   "names_period": true,
+   "three_or_four_sentences": true
+  },
+  "unsupported": [],
+  "passed": true,
+  "n_numbers": 13
+ },
+ "commentary_v2_2": {
+  "checks": {
+   "numbers_supported": true,
+   "price_only_caveat": true,
+   "no_forecast_or_advice": true,
+   "names_period": true,
+   "three_or_four_sentences": false
+  },
+  "unsupported": [],
+  "passed": false,
+  "n_numbers": 11
+ },
+ "commentary_v2_3": {
+  "checks": {
+   "numbers_supported": true,
+   "price_only_caveat": true,
+   "no_forecast_or_advice": true,
+   "names_period": true,
+   "three_or_four_sentences": true
+  },
+  "unsupported": [],
+  "passed": true,
+  "n_numbers": 13
+ },
+ "commentary_v2_4": {
+  "checks": {
+   "numbers_supported": true,
+   "price_only_caveat": true,
+   "no_forecast_or_advice": true,
+   "names_period": true,
+   "three_or_four_sentences": true
+  },
+  "unsupported": [],
+  "passed": true,
+  "n_numbers": 13
+ },
+ "commentary_v2_5": {
+  "checks": {
+   "numbers_supported": true,
+   "price_only_caveat": true,
+   "no_forecast_or_advice": true,
+   "names_period": true,
+   "three_or_four_sentences": true
+  },
+  "unsupported": [],
+  "passed": true,
+  "n_numbers": 11
+ }
+}

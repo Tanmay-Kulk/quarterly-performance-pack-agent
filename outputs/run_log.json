@@ -1,0 +1,45 @@
+{
+ "stage": "prepare",
+ "series": {
+  "equity": {
+   "id": "SP500",
+   "rows": 780,
+   "observations": 749,
+   "source": "live",
+   "first": "2023-11-10",
+   "last": "2026-11-05",
+   "issues": []
+  },
+  "ig": {
+   "id": "BAMLCC0A0CMTRIV",
+   "rows": 792,
+   "observations": 784,
+   "source": "live",
+   "first": "2023-11-10",
+   "last": "2026-11-06",
+   "issues": []
+  },
+  "hy": {
+   "id": "BAMLHYH0A0HYM2TRIV",
+   "rows": 792,
+   "observations": 784,
+   "source": "live",
+   "first": "2023-11-10",
+   "last": "2026-11-06",
+   "issues": []
+  },
+  "cash": {
+   "id": "DGS3MO",
+   "rows": 781,
+   "observations": 747,
+   "source": "live",
+   "first": "2023-11-10",
+   "last": "2026-11-06",
+   "issues": []
+  }
+ },
+ "issues": [],
+ "quarters": 11,
+ "seconds": 0.98,
+ "warnings": 0
+}

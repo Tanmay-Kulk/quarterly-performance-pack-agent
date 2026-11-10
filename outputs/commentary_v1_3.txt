@@ -1,0 +1,9 @@
+**2026Q3 Investment Committee Commentary**
+
+The plan returned about 0.3% in the third quarter, slightly ahead of the policy portfolio's 0.1%. The difference was 0.17 percentage points. Absolute returns were muted because gains in equities were largely offset by losses in bonds.
+
+US equities (S&P 500 price index) were the only meaningful positive contributor, returning 2.0%. Investment grade corporate bonds were the weakest asset class at -3.8%, and high yield bonds also declined, by 1.8%. Cash earned 1.0%.
+
+The outperformance came entirely from asset allocation, not from manager selection. The portfolio was overweight US equity (63% actual versus 60% policy) and underweight investment grade bonds (22% versus 25%). Holding more of the best-performing asset and less of the worst added roughly 0.17 points: about 0.06 from the equity overweight and about 0.11 from the investment grade underweight. High yield and cash were at policy weights and contributed no difference. The returns used here are market index returns, so this attribution does not capture any security selection effects.
+
+Two points for context. First, the equity return is a price index and excludes dividends, so total equity returns, and therefore both portfolio returns, are somewhat understated. Second, the 3 point equity overweight is a drift that would leave the portfolio further from policy if equities keep outperforming, so the committee may wish to review it against the rebalancing guidelines. Data is through 2026-11-05.

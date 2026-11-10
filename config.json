@@ -1,0 +1,15 @@
+{
+  "series": {
+    "equity": {"id": "SP500", "name": "S&P 500 (price index, excludes dividends)", "kind": "price", "min": 100, "max": 20000},
+    "ig":     {"id": "BAMLCC0A0CMTRIV", "name": "ICE BofA US Corporate Index (total return)", "kind": "total_return", "min": 500, "max": 20000},
+    "hy":     {"id": "BAMLHYH0A0HYM2TRIV", "name": "ICE BofA US High Yield Index (total return)", "kind": "total_return", "min": 500, "max": 20000},
+    "cash":   {"id": "DGS3MO", "name": "3-month US Treasury yield (percent)", "kind": "yield", "min": 0.0, "max": 25.0}
+  },
+  "policy": {"equity": 0.60, "ig": 0.25, "hy": 0.10, "cash": 0.05},
+  "actual": {"equity": 0.63, "ig": 0.22, "hy": 0.10, "cash": 0.05},
+  "start_date": "2023-11-10",
+  "quarters": ["2024Q1", "2024Q2", "2024Q3", "2024Q4", "2025Q1", "2025Q2", "2025Q3", "2025Q4", "2026Q1", "2026Q2", "2026Q3"],
+  "report_quarter": "2026Q3",
+  "thresholds": {"max_gap_days": 7, "max_stale_days": 7, "max_daily_move": 0.10, "yield_median_min": 0.05},
+  "as_of": "2026-11-09"
+}

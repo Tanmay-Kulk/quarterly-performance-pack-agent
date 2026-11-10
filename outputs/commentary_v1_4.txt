@@ -1,0 +1,21 @@
+**2026Q3 Investment Committee Commentary**
+
+The policy portfolio returned 0.1% for the quarter and the actual portfolio returned 0.3%, a difference of +0.17 percentage points. Returns were weak across the board. Only US equities and cash made money, and both bond sectors lost money.
+
+**Markets.** US equities (S&P 500 price index) rose 2.0%. US investment grade corporate bonds fell 3.8%, the weakest asset class in the portfolio. High yield bonds fell 1.8%. Cash earned 1.0%. The S&P 500 figure is a price index, so it leaves out dividends and understates the equity total return. That also understates both portfolio returns somewhat.
+
+**Positioning.** Actual weights ended the quarter away from policy in two places:
+- US equity was 63% against a 60% target, an overweight of 3 points.
+- Investment grade bonds were 22% against a 25% target, an underweight of 3 points.
+- High yield and cash were both at policy (10% and 5%).
+
+**Why we beat policy.** The whole 0.17 point gain comes from the asset allocation shift, which is the weight differences above applied to each asset's return relative to the policy return:
+- The investment grade underweight added about 0.12 points, because we held less of the worst-performing asset.
+- The equity overweight added about 0.06 points, because equities outperformed the policy portfolio.
+- High yield and cash contributed nothing, since they were at policy weight.
+
+The table does not show any manager-level results, so this analysis treats the asset class returns as the same for actual and policy and attributes none of the difference to security selection.
+
+**Considerations for the committee.** The equity overweight is a result of market moves or of a decision, and the data does not say which. If it is drift, the committee may want to review it against rebalancing guidelines. The gain depends on equities continuing to beat bonds, so it could reverse if conditions change. The bond losses and what they mean for the portfolio's interest rate and credit exposure may also deserve discussion.
+
+*Data through 2026-11-05.*

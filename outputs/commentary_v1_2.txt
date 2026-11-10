@@ -1,0 +1,20 @@
+**2026Q3 Investment Committee Commentary**
+
+The plan's actual portfolio returned about 0.3% in the third quarter, against about 0.1% for the policy portfolio. That is 0.17 percentage points ahead (0.29% vs 0.12% before rounding). The absolute return was small because gains in equities were mostly offset by losses in bonds.
+
+**Markets.** US equities (S&P 500 price index) rose 2.0%. Bonds lost ground. Investment grade corporates fell 3.8% and high yield fell 1.8%. Cash earned 1.0%. Bonds were the main drag on both the policy and actual portfolios.
+
+**Positioning.** The portfolio held 3 points more in US equity than policy (63% vs 60%) and 3 points less in investment grade bonds (22% vs 25%). High yield and cash were at policy weights.
+
+**Source of the difference.** Both active positions helped, and together they explain the full 0.17 points:
+- The equity overweight added about 0.06 points (3% x 2.0%).
+- The investment grade underweight added about 0.11 points (3% x 3.8% loss avoided).
+
+The table uses the same index returns for the actual and policy portfolios, so none of the difference comes from security selection. It comes entirely from the weights.
+
+**Points to note.**
+- The result comes from drift away from policy weights. It does not necessarily reflect a deliberate decision. The committee may want to confirm that the 63% equity weight is within its rebalancing ranges.
+- The equity return is a price index, so it leaves out dividends. Total equity returns, and both portfolio returns, were therefore somewhat higher than shown. The comparison between the two portfolios is not affected, because both use the same equity figure.
+- The equity overweight helped this quarter, but it adds exposure to equity losses if markets reverse.
+
+Data through 2026-11-05.

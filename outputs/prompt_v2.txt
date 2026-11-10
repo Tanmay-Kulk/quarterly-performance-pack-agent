@@ -1,0 +1,13 @@
+Write a short quarterly commentary of three or four sentences for a pension plan's investment committee from the table below.
+Rules: use only figures that appear in the table, quoted in percent to one decimal; name the quarter; say that the equity index is a price index that excludes dividends; do not forecast or recommend anything.
+
+Quarter: 2026Q3
+Asset                                      Policy wt Actual wt   Return
+US equity (S&P 500 price index)                  60%       63%     2.0%
+US investment grade corporate bonds              25%       22%    -3.8%
+US high yield bonds                              10%       10%    -1.8%
+Cash (3-month Treasury)                           5%        5%     1.0%
+Policy portfolio return: 0.1%
+Actual portfolio return: 0.3%
+Difference (actual minus policy): 0.17 percentage points
+Data through: 2026-11-05

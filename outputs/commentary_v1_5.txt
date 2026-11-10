@@ -1,0 +1,20 @@
+**2026Q3 Investment Committee Commentary**
+
+The plan returned 0.3% for the quarter against 0.1% for the policy portfolio, a difference of +0.17 percentage points. Returns were weak overall.
+
+**Markets.** US equities were the only risk asset with a clear gain, at +2.0% (S&P 500 price index). US investment grade corporate bonds were the weakest holding at -3.8%. US high yield fell 1.8%. Cash earned 1.0%.
+
+**Positioning.** The plan was 3 points overweight US equity (63% vs 60%) and 3 points underweight investment grade bonds (22% vs 25%). High yield and cash were at policy weights.
+
+**Source of the difference.** All of the +0.17 points comes from these two allocation differences. The table shows no separate effect from security selection.
+- The equity overweight added about 0.06 points.
+- The investment grade underweight added about 0.11 points, because the plan held less of the quarter's worst performer.
+- High yield and cash contributed nothing.
+
+**Cautions**
+- The result reflects a modest tilt that happened to line up with the quarter's returns. It is not evidence of a repeatable edge.
+- Equity returns are shown on a price-index basis, so they exclude dividends and understate equity total return. They are not directly comparable with the bond returns. Both portfolio figures use the same equity series, so the policy comparison is unaffected.
+- The table does not say whether the actual weights are quarter-end or average. The figures above treat them as the weights held over the quarter.
+- Data is through 2026-11-05.
+
+**For the committee.** The overweight to equity and underweight to investment grade bonds are within a few points of policy. The committee may want to confirm whether the tilts were intentional and whether current weights remain acceptable.
